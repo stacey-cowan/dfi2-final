@@ -1,0 +1,4 @@
+
+# http://www.robotstxt.org
+
+Sitemap: http://cowa0052.site44.com/dsn1543/project-1/sitemap.xml
